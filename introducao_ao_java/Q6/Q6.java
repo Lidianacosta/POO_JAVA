@@ -18,5 +18,6 @@ public class  Q6 {
         System.out.println("dias: " + dias);
         System.out.println("horas: " + horas);
         System.out.println("minutos: " + minutos);
+        scan.close();
     }
 }

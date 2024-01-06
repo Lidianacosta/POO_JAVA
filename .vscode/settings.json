@@ -1,0 +1,7 @@
+{
+    "editor.wordWrap": "on",
+    "files.autoSave": "off",
+    "explorer.compactFolders": false,
+    "workbench.colorTheme": "Dracula Soft",
+    "editor.guides.bracketPairs": true,
+}
