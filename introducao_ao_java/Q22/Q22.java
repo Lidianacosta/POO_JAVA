@@ -26,7 +26,7 @@ public class Q22 {
 
     public static double polinomio(double n, double a, double x) {
         if (n == 0)
-            return 1;
-        return x * polinomio(n - 1, a, x) + a*n;
+            return a;
+        return x * polinomio(n - 1, a, x) + a;
     }
 }
